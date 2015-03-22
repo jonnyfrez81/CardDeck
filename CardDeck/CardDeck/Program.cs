@@ -10,6 +10,13 @@ namespace CardDeck
     {
         static void Main(string[] args)
         {
+
+            DeckOfCards cards = new DeckOfCards();
+
+            Console.ReadKey();
+
+
+
         }
     }
 }
